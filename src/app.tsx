@@ -40,8 +40,7 @@ export const App = (): JSX.Element => {
           />
           <figcaption className="text-xs tracking-wide py-3">
             <strong>EXCLUSIVE</strong> — Image captured near Fernsehturm.
-            Analysts confirm tagliatelle-className vessel. Salmon visible in
-            beam.
+            Analysts confirm tagliatelle-class vessel. Salmon visible in beam.
           </figcaption>
         </figure>
       </div>
