@@ -49,8 +49,8 @@ export const App = (): JSX.Element => {
         <p>
           <span className="font-display tracking-widest">BERLIN</span> — Two
           individuals, known only as N. and F., have come forward with claims
-          that baffle investigators. Since witnessing an object over Prenzlauer
-          Berg, they feel "compelled" to prepare the same dish: tagliatelle with
+          that baffle investigators. Since witnessing an object over Berlin,
+          they feel "compelled" to prepare the same dish: tagliatelle with
           salmon and dill.
         </p>
 
